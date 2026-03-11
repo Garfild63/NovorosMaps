@@ -1,0 +1,4 @@
+com.garfild63.novorosmaps.test.app-updated_navigation_xml-0 C:\Users\User\Downloads\NovorosMaps2\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.garfild63.novorosmaps.test.app-packageDebugAndroidTestResources-1 C:\Users\User\Downloads\NovorosMaps2\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+com.garfild63.novorosmaps.test.app-packageDebugAndroidTestResources-2 C:\Users\User\Downloads\NovorosMaps2\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+com.garfild63.novorosmaps.test.app-debugAndroidTest-3 C:\Users\User\Downloads\NovorosMaps2\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

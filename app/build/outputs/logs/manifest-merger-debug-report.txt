@@ -1,0 +1,312 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:3:1-73:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1f9458c217d3845cd7d4641995573cd9\workspace\transformed\play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\776cb7fd1a4637cf69696c63e8b3a312\workspace\transformed\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\92a95c4ab021070b590bd86aacdad8a4\workspace\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\5c7a38f2433d7e8671d647b98111f40f\workspace\transformed\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1ed76cf7865db34084fd34b7026755b8\workspace\transformed\play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\abf31ceeab96dc2137fa956c86280a06\workspace\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\b3d92e1792e098c757f57153f90f10b5\workspace\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\9c260b1d30cb26c94e1e062e0113a066\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\214cb4979c9e51c5c0544d90d8323d01\workspace\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\aab079bd27e0118e72acee37046d08ea\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\54dc36159ff921dc8c954cd3aec233be\workspace\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\5497fe4b5e6654ba9f5d1a9b9cf1c2d8\workspace\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\0178f89489ed858b9e7d843184bf07aa\workspace\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\4a128fa91612f4aa9eeae882c4535a4b\workspace\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\701ba2496f4ae5d724bfb00bd8bef778\workspace\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\92ed0eeacecf707462a6f4a1e6d9c01c\workspace\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\9.3.1\transforms\f7eacda58ff090e4208af97023559b8a\workspace\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\155503be7d832d0934000defe2fc83a1\workspace\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\a199bbbe7c22e9618dd6082eeb3e76fc\workspace\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\b3973ffda91803384da2164f54c6931a\workspace\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\9.3.1\transforms\5e77b08eb88892c2cd8a39f816d6d5cf\workspace\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\9ada71a1760ac7e8d5b98b9baa94aace\workspace\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\7e0270f02bca21b3d31b6195591a16f1\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\51a65fca61eeb42f1070228170856735\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\f33ba99e3a481629ce001b918034e138\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\dbe312f2ad0b9f9ce21c7aa4e653fbbc\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\f9d8a8cb3988b984574dc65368eae49b\workspace\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\115f3f822f6eafe2cf5a404893a7513a\workspace\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:14:5-67
+MERGED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:18:5-79
+MERGED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:9:22-78
+application
+ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:11:5-28:19
+INJECTED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:11:5-28:19
+MERGED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:25:5-71:19
+MERGED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:25:5-71:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1f9458c217d3845cd7d4641995573cd9\workspace\transformed\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1f9458c217d3845cd7d4641995573cd9\workspace\transformed\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\776cb7fd1a4637cf69696c63e8b3a312\workspace\transformed\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\776cb7fd1a4637cf69696c63e8b3a312\workspace\transformed\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\92a95c4ab021070b590bd86aacdad8a4\workspace\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\92a95c4ab021070b590bd86aacdad8a4\workspace\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\5c7a38f2433d7e8671d647b98111f40f\workspace\transformed\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\5c7a38f2433d7e8671d647b98111f40f\workspace\transformed\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1ed76cf7865db34084fd34b7026755b8\workspace\transformed\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1ed76cf7865db34084fd34b7026755b8\workspace\transformed\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\9.3.1\transforms\f7eacda58ff090e4208af97023559b8a\workspace\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\9.3.1\transforms\f7eacda58ff090e4208af97023559b8a\workspace\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\9.3.1\transforms\5e77b08eb88892c2cd8a39f816d6d5cf\workspace\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\9.3.1\transforms\5e77b08eb88892c2cd8a39f816d6d5cf\workspace\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\9.3.1\transforms\f7eacda58ff090e4208af97023559b8a\workspace\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:25:18-44
+	android:icon
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:12:9-45
+	android:theme
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.garfild63.novorosmaps.MainActivity
+ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:exported
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:17:13-36
+	android:configChanges
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:18:13-59
+	android:name
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.garfild63.novorosmaps.MapActivity
+ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:25:9-27:62
+	android:configChanges
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:27:13-59
+	android:name
+		ADDED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:26:13-40
+uses-sdk
+INJECTED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml
+MERGED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:9:5-11:41
+MERGED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:9:5-11:41
+MERGED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:20:5-58
+MERGED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:20:5-58
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1f9458c217d3845cd7d4641995573cd9\workspace\transformed\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1f9458c217d3845cd7d4641995573cd9\workspace\transformed\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\776cb7fd1a4637cf69696c63e8b3a312\workspace\transformed\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\776cb7fd1a4637cf69696c63e8b3a312\workspace\transformed\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\92a95c4ab021070b590bd86aacdad8a4\workspace\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\92a95c4ab021070b590bd86aacdad8a4\workspace\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\5c7a38f2433d7e8671d647b98111f40f\workspace\transformed\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\5c7a38f2433d7e8671d647b98111f40f\workspace\transformed\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1ed76cf7865db34084fd34b7026755b8\workspace\transformed\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1ed76cf7865db34084fd34b7026755b8\workspace\transformed\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\abf31ceeab96dc2137fa956c86280a06\workspace\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\abf31ceeab96dc2137fa956c86280a06\workspace\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\b3d92e1792e098c757f57153f90f10b5\workspace\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\b3d92e1792e098c757f57153f90f10b5\workspace\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\9c260b1d30cb26c94e1e062e0113a066\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\9c260b1d30cb26c94e1e062e0113a066\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\214cb4979c9e51c5c0544d90d8323d01\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\214cb4979c9e51c5c0544d90d8323d01\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\aab079bd27e0118e72acee37046d08ea\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\aab079bd27e0118e72acee37046d08ea\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\54dc36159ff921dc8c954cd3aec233be\workspace\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\54dc36159ff921dc8c954cd3aec233be\workspace\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\5497fe4b5e6654ba9f5d1a9b9cf1c2d8\workspace\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\5497fe4b5e6654ba9f5d1a9b9cf1c2d8\workspace\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\0178f89489ed858b9e7d843184bf07aa\workspace\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\0178f89489ed858b9e7d843184bf07aa\workspace\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\4a128fa91612f4aa9eeae882c4535a4b\workspace\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\4a128fa91612f4aa9eeae882c4535a4b\workspace\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\701ba2496f4ae5d724bfb00bd8bef778\workspace\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\701ba2496f4ae5d724bfb00bd8bef778\workspace\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\92ed0eeacecf707462a6f4a1e6d9c01c\workspace\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\92ed0eeacecf707462a6f4a1e6d9c01c\workspace\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\9.3.1\transforms\f7eacda58ff090e4208af97023559b8a\workspace\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\9.3.1\transforms\f7eacda58ff090e4208af97023559b8a\workspace\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\155503be7d832d0934000defe2fc83a1\workspace\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\155503be7d832d0934000defe2fc83a1\workspace\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\a199bbbe7c22e9618dd6082eeb3e76fc\workspace\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\a199bbbe7c22e9618dd6082eeb3e76fc\workspace\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\b3973ffda91803384da2164f54c6931a\workspace\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\b3973ffda91803384da2164f54c6931a\workspace\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\9.3.1\transforms\5e77b08eb88892c2cd8a39f816d6d5cf\workspace\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\User\.gradle\caches\9.3.1\transforms\5e77b08eb88892c2cd8a39f816d6d5cf\workspace\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\9ada71a1760ac7e8d5b98b9baa94aace\workspace\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\9ada71a1760ac7e8d5b98b9baa94aace\workspace\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\7e0270f02bca21b3d31b6195591a16f1\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\7e0270f02bca21b3d31b6195591a16f1\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\51a65fca61eeb42f1070228170856735\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\51a65fca61eeb42f1070228170856735\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\f33ba99e3a481629ce001b918034e138\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\f33ba99e3a481629ce001b918034e138\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\dbe312f2ad0b9f9ce21c7aa4e653fbbc\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\dbe312f2ad0b9f9ce21c7aa4e653fbbc\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\f9d8a8cb3988b984574dc65368eae49b\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\f9d8a8cb3988b984574dc65368eae49b\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\115f3f822f6eafe2cf5a404893a7513a\workspace\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\115f3f822f6eafe2cf5a404893a7513a\workspace\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:20:15-55
+	android:targetSdkVersion
+		INJECTED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:23:22-78
+meta-data#yandex.maps.runtime.stl.linkage
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:27:13-59
+service#com.evernote.android.job.patched.internal.v21.PlatformJobService
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:30:9-33:72
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:32:13-37
+	android:permission
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:33:13-69
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:31:13-92
+service#com.evernote.android.job.patched.internal.v14.PlatformAlarmService
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:34:9-37:72
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:36:13-37
+	android:permission
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:35:13-94
+service#com.evernote.android.job.patched.internal.v14.PlatformAlarmServiceExact
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:38:9-40:40
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:39:13-99
+receiver#com.evernote.android.job.patched.internal.v14.PlatformAlarmReceiver
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:42:9-51:20
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:43:13-95
+intent-filter#action:name:com.evernote.android.job.patched.internal.v14.RUN_JOB+action:name:net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:45:13-50:29
+action#com.evernote.android.job.patched.internal.v14.RUN_JOB
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:48:17-96
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:48:25-93
+action#net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:49:25-75
+receiver#com.evernote.android.job.patched.internal.JobBootReceiver
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:52:9-61:20
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:53:13-85
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:55:13-60:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:56:17-79
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:56:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:57:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:58:17-82
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:58:25-79
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:59:17-84
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:59:25-81
+service#com.evernote.android.job.patched.internal.JobRescheduleService
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:63:9-66:72
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:65:13-37
+	android:permission
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:66:13-69
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:64:13-90
+service#com.yandex.runtime.connectivity.internal.ConnectivityService
+ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:67:9-70:72
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:69:13-36
+	android:permission
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:70:13-69
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:68:13-88
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:2:1-30:12 reason: com.yandex.maps.mobile requested WRITE_EXTERNAL_STORAGE
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\776cb7fd1a4637cf69696c63e8b3a312\workspace\transformed\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\776cb7fd1a4637cf69696c63e8b3a312\workspace\transformed\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\776cb7fd1a4637cf69696c63e8b3a312\workspace\transformed\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\776cb7fd1a4637cf69696c63e8b3a312\workspace\transformed\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1ed76cf7865db34084fd34b7026755b8\workspace\transformed\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1ed76cf7865db34084fd34b7026755b8\workspace\transformed\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1ed76cf7865db34084fd34b7026755b8\workspace\transformed\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

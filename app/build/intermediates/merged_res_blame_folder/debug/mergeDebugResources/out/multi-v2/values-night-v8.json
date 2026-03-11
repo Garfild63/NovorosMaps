@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.garfild63.novorosmaps.app-mergeDebugResources-6:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\Downloads\\NovorosMaps2\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "53",
+                        "endColumns": "64",
+                        "endOffsets": "113"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

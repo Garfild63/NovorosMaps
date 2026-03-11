@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="access_gps">Разрешите приложению доступ к геолокации</string>
+    <string name="app_name">Походы в Новороссийске</string>
+</resources>

@@ -1,0 +1,11 @@
+com.garfild63.novorosmaps
+color black
+color white
+drawable geo
+drawable ic_launcher
+drawable marker
+id mapView
+layout activity_map
+string access_gps
+string app_name
+style AppTheme

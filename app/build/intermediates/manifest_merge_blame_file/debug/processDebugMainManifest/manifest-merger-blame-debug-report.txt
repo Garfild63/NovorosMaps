@@ -1,0 +1,187 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.garfild63.novorosmaps"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="21"
+8-->INJECTED
+9        android:targetSdkVersion="36" />
+9-->INJECTED
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:7:5-67
+11-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:8:5-79
+12-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:8:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:9:5-81
+13-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:9:22-78
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:13:5-79
+14-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:13:22-76
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:15:5-81
+15-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:15:22-78
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:16:5-76
+16-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:16:22-73
+17    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+17-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:17:5-76
+17-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:17:22-73
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:22:5-68
+18-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:22:22-65
+19    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+19-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:23:5-81
+19-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:23:22-78
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21
+22    <application
+22-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:11:5-28:19
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\9.3.1\transforms\f7eacda58ff090e4208af97023559b8a\workspace\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:extractNativeLibs="true"
+25-->INJECTED
+26        android:icon="@drawable/ic_launcher"
+26-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:12:9-45
+27        android:label="@string/app_name"
+27-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:13:9-41
+28        android:theme="@style/AppTheme" >
+28-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:14:9-40
+29        <activity
+29-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:15:9-24:20
+30            android:name="com.garfild63.novorosmaps.MainActivity"
+30-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:16:13-41
+31            android:configChanges="orientation|screenSize"
+31-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:18:13-59
+32            android:exported="true" >
+32-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:17:13-36
+33            <intent-filter>
+33-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:19:13-23:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:20:17-69
+34-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:20:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:22:17-77
+36-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:22:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:25:9-27:62
+40            android:name="com.garfild63.novorosmaps.MapActivity"
+40-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:26:13-40
+41            android:configChanges="orientation|screenSize" />
+41-->C:\Users\User\Downloads\NovorosMaps2\app\src\main\AndroidManifest.xml:27:13-59
+42
+43        <meta-data
+43-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:26:9-28:38
+44            android:name="yandex.maps.runtime.stl.linkage"
+44-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:27:13-59
+45            android:value="static" />
+45-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:28:13-35
+46
+47        <service
+47-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:30:9-33:72
+48            android:name="com.evernote.android.job.patched.internal.v21.PlatformJobService"
+48-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:31:13-92
+49            android:exported="false"
+49-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:32:13-37
+50            android:permission="android.permission.BIND_JOB_SERVICE" />
+50-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:33:13-69
+51        <service
+51-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:34:9-37:72
+52            android:name="com.evernote.android.job.patched.internal.v14.PlatformAlarmService"
+52-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:35:13-94
+53            android:exported="false"
+53-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:36:13-37
+54            android:permission="android.permission.BIND_JOB_SERVICE" />
+54-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:37:13-69
+55        <service
+55-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:38:9-40:40
+56            android:name="com.evernote.android.job.patched.internal.v14.PlatformAlarmServiceExact"
+56-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:39:13-99
+57            android:exported="false" />
+57-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:40:13-37
+58
+59        <receiver
+59-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:42:9-51:20
+60            android:name="com.evernote.android.job.patched.internal.v14.PlatformAlarmReceiver"
+60-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:43:13-95
+61            android:exported="false" >
+61-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:44:13-37
+62            <intent-filter>
+62-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:45:13-50:29
+63
+64                <!-- Keep the filter for legacy intents -->
+65                <action android:name="com.evernote.android.job.patched.internal.v14.RUN_JOB" />
+65-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:48:17-96
+65-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:48:25-93
+66                <action android:name="net.vrallev.android.job.v14.RUN_JOB" />
+66-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:49:17-78
+66-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:49:25-75
+67            </intent-filter>
+68        </receiver>
+69        <receiver
+69-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:52:9-61:20
+70            android:name="com.evernote.android.job.patched.internal.JobBootReceiver"
+70-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:53:13-85
+71            android:exported="false" >
+71-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:54:13-37
+72            <intent-filter>
+72-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:55:13-60:29
+73                <action android:name="android.intent.action.BOOT_COMPLETED" />
+73-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:56:17-79
+73-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:56:25-76
+74                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+74-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:57:17-82
+74-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:57:25-79
+75                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+75-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:58:17-82
+75-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:58:25-79
+76                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+76-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:59:17-84
+76-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:59:25-81
+77            </intent-filter>
+78        </receiver>
+79
+80        <service
+80-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:63:9-66:72
+81            android:name="com.evernote.android.job.patched.internal.JobRescheduleService"
+81-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:64:13-90
+82            android:exported="false"
+82-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:65:13-37
+83            android:permission="android.permission.BIND_JOB_SERVICE" />
+83-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:66:13-69
+84        <service
+84-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:67:9-70:72
+85            android:name="com.yandex.runtime.connectivity.internal.ConnectivityService"
+85-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:68:13-88
+86            android:exported="true"
+86-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:69:13-36
+87            android:permission="android.permission.BIND_JOB_SERVICE" />
+87-->[com.yandex.android:maps.mobile:4.1.0-lite] C:\Users\User\.gradle\caches\9.3.1\transforms\e2ebd1e069fee9657764e9cf38a97349\workspace\transformed\maps.mobile-4.1.0-lite\AndroidManifest.xml:70:13-69
+88
+89        <activity
+89-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\776cb7fd1a4637cf69696c63e8b3a312\workspace\transformed\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+90            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+90-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\776cb7fd1a4637cf69696c63e8b3a312\workspace\transformed\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+91            android:exported="false"
+91-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\776cb7fd1a4637cf69696c63e8b3a312\workspace\transformed\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+92            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+92-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\776cb7fd1a4637cf69696c63e8b3a312\workspace\transformed\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+93
+94        <meta-data
+94-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1ed76cf7865db34084fd34b7026755b8\workspace\transformed\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+95            android:name="com.google.android.gms.version"
+95-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1ed76cf7865db34084fd34b7026755b8\workspace\transformed\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+96            android:value="@integer/google_play_services_version" />
+96-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\User\.gradle\caches\9.3.1\transforms\1ed76cf7865db34084fd34b7026755b8\workspace\transformed\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+97    </application>
+98
+99</manifest>

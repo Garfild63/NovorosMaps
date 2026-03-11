@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.garfild63.novorosmaps.app-debug-8:/drawable_geo.png.flat",
+        "source": "com.garfild63.novorosmaps.app-main-10:/drawable/geo.png"
+    },
+    {
+        "merged": "com.garfild63.novorosmaps.app-debug-8:/drawable_ic_launcher.png.flat",
+        "source": "com.garfild63.novorosmaps.app-main-10:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.garfild63.novorosmaps.app-debug-8:/drawable_marker.png.flat",
+        "source": "com.garfild63.novorosmaps.app-main-10:/drawable/marker.png"
+    },
+    {
+        "merged": "com.garfild63.novorosmaps.app-debug-8:/layout_activity_map.xml.flat",
+        "source": "com.garfild63.novorosmaps.app-main-10:/layout/activity_map.xml"
+    }
+]

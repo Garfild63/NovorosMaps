@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.garfild63.novorosmaps.test" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="36" />
+
+    <instrumentation
+        android:name="androidx.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.garfild63.novorosmaps"
+        android:targetPackage="com.garfild63.novorosmaps" />
+
+    <application
+        android:debuggable="true"
+        android:extractNativeLibs="true" />
+
+</manifest>
