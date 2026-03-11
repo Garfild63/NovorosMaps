@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Походы в Новороссийске</string>
+    <string name="access_gps">Разрешите приложению доступ к геолокации</string>
+</resources>

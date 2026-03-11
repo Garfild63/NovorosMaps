@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hiking in Novorossiysk</string>
+    <string name="access_gps">Allow the application to access your location</string>
+</resources>
